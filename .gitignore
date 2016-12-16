@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HandsOnLab/Finish/DevDaysSpeakers/DevDaysSpeakers.Droid/bin/Debug
+/HandsOnLab/Finish/DevDaysSpeakers/DevDaysSpeakers.Droid/obj/Debug
+/HandsOnLab/Finish/DevDaysSpeakers/DevDaysSpeakers.UWP/obj/x86/Debug
+/HandsOnLab/Finish/packages
+/HandsOnLab/Start/DevDaysSpeakers/DevDaysSpeakers.UWP/obj/x86/Debug
